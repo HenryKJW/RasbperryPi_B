@@ -25,11 +25,10 @@
 
 <p>project</p>
 *     smartCarProject
-
 -       clientPoint
 -       serverPoint
-*     smartCarProject1
 
+*     smartCarProject1
 -       20161210V1
 -       20161215V1.1
 -       serverPoint
