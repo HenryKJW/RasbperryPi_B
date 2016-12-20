@@ -1,0 +1,4 @@
+/home/pi/git_server/Camera/userland/host_applications/linux/apps/raspicam/build/CMakeFiles/raspistill.dir
+/home/pi/git_server/Camera/userland/host_applications/linux/apps/raspicam/build/CMakeFiles/raspivid.dir
+/home/pi/git_server/Camera/userland/host_applications/linux/apps/raspicam/build/CMakeFiles/raspividyuv.dir
+/home/pi/git_server/Camera/userland/host_applications/linux/apps/raspicam/build/CMakeFiles/raspiyuv.dir

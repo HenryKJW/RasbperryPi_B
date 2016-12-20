@@ -1,0 +1,7 @@
+
+sudo /sbin/rmmod sample
+/bin/dmesg | tail
+sudo tail /var/log/messages
+
+ls -l /dev/sema_init(&globalfifo_devp->sem, 1);*
+

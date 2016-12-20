@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../helpers/dtoverlay/dtoverlay.h
+
+../../../opensrc/helpers/libfdt/fdt.h
+
+../../../opensrc/helpers/libfdt/libfdt.h
+libfdt_env.h
+-
+fdt.h
+-
+
+../../../opensrc/helpers/libfdt/libfdt_env.h
+stddef.h
+-
+stdint.h
+-
+string.h
+-
+
+/home/pi/git_server/Camera/userland/host_applications/linux/apps/dtmerge/dtmerge.c
+stdio.h
+-
+stdlib.h
+-
+libfdt.h
+-
+dtoverlay.h
+/home/pi/git_server/Camera/userland/host_applications/linux/apps/dtmerge/dtoverlay.h
+

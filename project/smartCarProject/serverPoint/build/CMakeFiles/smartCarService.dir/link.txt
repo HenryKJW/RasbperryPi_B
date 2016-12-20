@@ -1,0 +1,1 @@
+/usr/bin/gcc      CMakeFiles/smartCarService.dir/smartCarService.c.o  -o smartCarService -rdynamic -L/home/pi/git_server/project/smartCarProject/serverPoint/uart -lBCM2835Uart -Wl,-rpath,/home/pi/git_server/project/smartCarProject/serverPoint/uart 

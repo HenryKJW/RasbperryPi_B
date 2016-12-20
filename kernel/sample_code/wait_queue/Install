@@ -1,0 +1,17 @@
+
+sudo /sbin/insmod ./sample.ko
+/bin/dmesg | tail
+
+echo -----------------------------------------------------------------
+/sbin/lsmod | grep sample
+echo -----------------------------------------------------------------
+
+ls -l /dev/globalfifo*
+
+sudo mknod --mode=666 /dev/sample c `grep globalfifo /proc/devices | awk '{print $1;}'` 0
+#hexdump -C -n 32 /dev/devone0
+
+#sudo /sbin/rmmod sample
+#/bin/dmesg | tail
+#sudo tail /var/log/messages
+

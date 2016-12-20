@@ -1,0 +1,1 @@
+/usr/bin/gcc   -Wno-multichar -Wall -Wno-unused-but-set-variable -fPIC -O3 -DNDEBUG    CMakeFiles/dtoverlay.dir/dtoverlay_main.c.o CMakeFiles/dtoverlay.dir/utils.c.o  -o ../../../../../../bin/dtoverlay -rdynamic ../../../../../../lib/libdtovl.so ../../../../../../lib/libfdt.a -Wl,-rpath,/home/pi/git_server/Camera/userland/build/lib: 

@@ -1,0 +1,2 @@
+---- platform_driver_register Matches (1 in 1 files) ----
+Globalfifo.c:     ret = platform_driver_register(&globalfifo_driver);

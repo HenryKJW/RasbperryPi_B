@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../uart/status.h
+
+../uart/uart.h
+
+/home/pi/git_server/project/smartCarProject/serverPoint/smartCarService.c
+stdio.h
+-
+string.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+uart.h
+/home/pi/git_server/project/smartCarProject/serverPoint/uart.h
+status.h
+/home/pi/git_server/project/smartCarProject/serverPoint/status.h
+termios.h
+-
+sys/select.h
+-
+sys/time.h
+-
+
