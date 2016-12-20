@@ -1,0 +1,4 @@
+---- bcm2835_pwm_clean_fifo Matches (3 in 1 files) ----
+Test.c:  bcm2835_pwm_clean_fifo(TRUE);
+Test.c:  bcm2835_pwm_clean_fifo(FALSE);
+Test.c:  bcm2835_pwm_clean_fifo(TRUE);

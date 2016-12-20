@@ -1,0 +1,4 @@
+cd /home/pi/git_server/RPi-LowLevelPeripherals/bcm2835-1.29/src/
+make clean
+make install
+#cd /home/pi/RaspCode/RPi-LowLevelPeripherals/app/test/

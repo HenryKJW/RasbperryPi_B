@@ -1,0 +1,19 @@
+---- bcm2835_spi0 Matches (18 in 2 files) ----
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):volatile uint32_t *bcm2835_spi0 = MAP_FAILED;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    volatile uint32_t* paddr = bcm2835_spi0 + BCM2835_SPI0_CS/4;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    volatile uint32_t* paddr = bcm2835_spi0 + BCM2835_SPI0_CLK/4;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    volatile uint32_t* paddr = bcm2835_spi0 + BCM2835_SPI0_CS/4;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    volatile uint32_t* paddr = bcm2835_spi0 + BCM2835_SPI0_CS/4;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    volatile uint32_t* fifo = bcm2835_spi0 + BCM2835_SPI0_FIFO/4;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    volatile uint32_t* paddr = bcm2835_spi0 + BCM2835_SPI0_CS/4;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    volatile uint32_t* fifo = bcm2835_spi0 + BCM2835_SPI0_FIFO/4;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    volatile uint32_t* paddr = bcm2835_spi0 + BCM2835_SPI0_CS/4;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    volatile uint32_t* fifo = bcm2835_spi0 + BCM2835_SPI0_FIFO/4;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    volatile uint32_t* paddr = bcm2835_spi0 + BCM2835_SPI0_CS/4;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    volatile uint32_t* paddr = bcm2835_spi0 + BCM2835_SPI0_CS/4;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):	bcm2835_spi0 = (uint32_t*)BCM2835_SPI0_BASE;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    bcm2835_spi0 = mapmem("spi0", BCM2835_BLOCK_SIZE, memfd, BCM2835_SPI0_BASE);
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    if (bcm2835_spi0 == MAP_FAILED) goto exit;
+Bcm2835.c (z:\rpi-lowlevelperipherals\lib):    unmapmem((void**) &bcm2835_spi0, BCM2835_BLOCK_SIZE);
+Bcm2835.h (z:\rpi-lowlevelperipherals\lib):///               bcm2835_pwm bcm2835_clk bcm2835_pads bcm2835_spi0.
+Bcm2835.h (z:\rpi-lowlevelperipherals\lib):extern volatile uint32_t *bcm2835_spi0;

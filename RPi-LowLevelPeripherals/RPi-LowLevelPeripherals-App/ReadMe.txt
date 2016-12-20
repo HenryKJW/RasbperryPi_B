@@ -1,0 +1,2 @@
+bcm2835測試程式
+makelib為建立bcm2835 RPi的lib與*.h,並將檔案copy到lib與.h系統呼叫目錄
