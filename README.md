@@ -19,6 +19,7 @@
 *     DrawingImages
 *     DrawingText
 *     StraightLines
+
 <p>kernel</p>
 *     datastructure
 *     sample_code
@@ -27,7 +28,6 @@
 *     smartCarProject
 -       clientPoint
 -       serverPoint
-
 *     smartCarProject1
 -       20161210V1
 -       20161215V1.1
