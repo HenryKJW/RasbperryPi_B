@@ -47,5 +47,8 @@
 <p>2...</p>
 </blockquote>
 
-*
-*
+<ul>
+<li><p>A list item.</p>
+<p>With multiple paragraphs.</p></li>
+<li><p>Another item in the list.</p></li>
+</ul>
