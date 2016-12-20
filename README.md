@@ -1,13 +1,13 @@
 # RasbperryPi_B
 <h2>20161220 branch folds:</h2>
-<p>app </p>
+<p>app</p>
 *     audio_to_FM
 *     BCM2835
 *     kernel_space
 *     MPU6050_original
 *     MPU6050-modify
 *     user_space
-<p>Camera </p>
+<p>Camera</p>
 *     rpi-mmal_demo
 *     rpi-mmal-demo-camera
 *     userland
@@ -22,12 +22,12 @@
 *     sample_code
 <p>project</p>
 *     smartCarProject
-*       clientPoint
-*       serverPoint
+-       clientPoint
+-       serverPoint
 *     smartCarProject1
-*       20161210V1
-*       20161215V1.1
-*       serverPoint
+-       20161210V1
+-       20161215V1.1
+-       serverPoint
 <p>python_code</p>
 *     Adafruit-Raspberry-Pi-Python-Code
 *     gpio-game-console
