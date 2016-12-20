@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/git_server/Camera/userland/containers/test/dump_pktfile.c
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+
