@@ -1,0 +1,33 @@
+           CPU0       
+  0:        784   IO-APIC-edge      timer
+  1:         10   IO-APIC-edge      i8042
+  6:          5   IO-APIC-edge      floppy
+  7:          0   IO-APIC-edge      parport0
+  8:          1   IO-APIC-edge      rtc
+  9:          0   IO-APIC-fasteoi   acpi
+ 12:         85   IO-APIC-edge      i8042
+ 14:      25070   IO-APIC-edge      libata
+ 15:       7516   IO-APIC-edge      libata
+ 16:          0   IO-APIC-fasteoi   uhci_hcd:usb1
+ 17:       5684   IO-APIC-fasteoi   eth0
+NMI:          0 
+LOC:     847674 
+ERR:          0
+MIS:          0
+
+           CPU0
+  3:     623227   ARMCTRL Edge      BCM2708 Timer Tick
+ 16:          0   ARMCTRL Edge      bcm2708_fb dma
+ 20:       2999   ARMCTRL Edge      DMA IRQ
+ 32:   16927097   ARMCTRL Edge      dwc_otg, dwc_otg_pcd, dwc_otg_hcd:usb1
+ 52:          0   ARMCTRL Edge      BCM2708 GPIO catchall handler
+ 65:        206   ARMCTRL Edge      bcm2835-mbox
+ 66:          2   ARMCTRL Edge      VCHIQ doorbell
+ 75:          1   ARMCTRL Edge
+ 77:       1253   ARMCTRL Edge      DMA IRQ
+ 79:          6   ARMCTRL Edge      bcm2708_i2c.1
+ 80:          0   ARMCTRL Edge      bcm2708_spi.0
+ 83:          5   ARMCTRL Edge      uart-pl011
+ 84:      69225   ARMCTRL Edge      mmc0
+FIQ:              usb_fiq
+Err:          0

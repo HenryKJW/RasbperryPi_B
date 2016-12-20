@@ -1,0 +1,5 @@
+
+sudo /sbin/rmmod demo
+/bin/dmesg | tail
+sudo tail /var/log/messages
+

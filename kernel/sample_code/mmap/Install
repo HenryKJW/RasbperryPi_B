@@ -1,0 +1,9 @@
+
+sudo /sbin/insmod ./demo.ko
+/bin/dmesg | tail
+
+echo -----------------------------------------------------------------
+/sbin/lsmod | grep demo
+echo -----------------------------------------------------------------
+
+sudo mknod --mode=666 /dev/demo c `grep demo /proc/devices | awk '{print $1;}'` 0
